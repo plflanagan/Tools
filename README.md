@@ -8,7 +8,7 @@ https://brew.sh/
 
 
 ## ZSH
-https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh
+https://github.com/robbyrussell/oh-my-zsh
 
 
 
